@@ -18,7 +18,7 @@ In this repository, there is a folder called CatCatMoose, which contains a very 
     
 Don’t open these files in your IDE just yet. We’ll do that in Stage 3.
 Create a copy of this template repository in your own GitHub if you haven't already done so. Enable GitPages on that respository. Go the following URL on your desktop (but replace YOURUSERNAME with your Git username): 
-- https://yourusername.github.io/Week1Practical1
+- https://yourusername.github.io/Practical1
 
 Open the same webpage on a mobile device. I recommend bookmarking the URL above on both your personal computer and mobile device.
 
