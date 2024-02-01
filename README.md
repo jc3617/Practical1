@@ -1,4 +1,4 @@
-# Week 1 Practical 1 - Web development workflow and tools
+# Practical 1 (Week 1) - Web development workflow and tools
 
 This practical is all about getting familiar with the web development workflow and tools that are available for you to use in your development and testing. The practical also highlights the differences between poor HTML and quality HTML.
 The work for this practical has been broken down into 4 stages.
