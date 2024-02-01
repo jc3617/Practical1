@@ -4,7 +4,7 @@ This practical is all about getting familiar with the web development workflow a
 The work for this practical has been broken down into 4 stages.
 ## Stage 1 Exercises: Getting Online
 ### Exercise 1.1: Setting Up Git Pages
-If you haven’t already done so, you will need to follow [this tutorial] (https://github.com/IM-WADD/GitPages-Tutorial) to learn how to set up Git Pages for your repositories. 
+If you haven’t already done so, you will need to follow [this tutorial](https://github.com/IM-WADD/GitPages-Tutorial) to learn how to set up Git Pages for your repositories. 
 
 ### Exercise 1.2: Familiarisation with CatCatMoose
 In this repository, there is a folder called CatCatMoose, which contains a very simple website that you will use in a few exercises in the coming weeks. The website has the following structure.
