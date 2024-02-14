@@ -17,8 +17,8 @@ In this repository, there is a folder called CatCatMoose, which contains a very 
     - script.js
     
 Don’t open these files in your IDE just yet. We’ll do that in Stage 3.
-Create a copy of this template repository in your own GitHub if you haven't already done so. Enable GitPages on that respository. Go the following URL on your desktop (but replace YOURUSERNAME with your Git username): 
-- https://yourusername.github.io/Practical1
+Create a copy of this template repository in your own GitHub if you haven't already done so. Enable GitPages on that respository. Go the following URL on your desktop (but replace YOURUSERNAME with your Git username and Practical1 with the name you gave the repository): 
+- https://yourusername.github.io/Practical1/CatCatMoose
 
 Open the same webpage on a mobile device. I recommend bookmarking the URL above on both your personal computer and mobile device.
 
