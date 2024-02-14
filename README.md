@@ -78,7 +78,7 @@ In the developer tools menu, just to the left of the Elements tab, you should se
 
 The Device Simulator is a very handy tool that allows you to see what a page looks like on different screen sizes right from your browser. Experiment with changing the device to different tablets and smartphones. The CatCatMoose webpage is not be responsive and therefore may appear weirdly when viewed on different size screens. We will work on making responsive websites later in the module!
 
-Check the Assessment 1 brief to see what dimensions your website will need to work with. Use the “Edit…” option at the bottom of the dimensions list to add the tablet and laptop dimensions given in the assessment 1 brief to your list of devices. You might want to name them something like WADD laptop and WADD tablet. 
+Use the “Edit…” option at the bottom of the dimensions list to add tablet dimensions (1280 X 800 px, landscape and portrait) and laptop dimensions (1920 x 1080 px) to your list of devices. You might want to name them something like WADD laptop and WADD tablet portrait, and WADD tablet landscape. 
 
 Note that you can use the ![Rotate device button](https://github.com/IM-WADD/Week1Practical1/assets/5978932/60321b2f-66bd-4edb-a1d4-ba7881e99934)icon to rotate the device and preview what your website would look like on these devices when in portrait or landscape mode. 
 
